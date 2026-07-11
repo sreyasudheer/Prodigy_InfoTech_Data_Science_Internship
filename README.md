@@ -42,7 +42,7 @@ The primary objective of this analysis is to:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Titanic Passenger Exploratory Data Analysis
+# Titanic Passenger Exploratory Data Analysis (PRODIGY_DS_02)
 
 ## 🎯 Project Objective
 The objective of this project is to perform a comprehensive Exploratory Data Analysis (EDA) on the Titanic passenger dataset. The goal is to understand the underlying passenger demographics, identify data quality issues, and uncover insights that inform future predictive modeling and machine learning applications.
